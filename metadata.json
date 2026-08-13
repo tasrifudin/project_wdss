@@ -1,0 +1,6 @@
+{
+  "name": "PT WDSS - Operational Management System",
+  "description": "Enterprise Freight Forwarding & Logistics Operational Management System for PT Wahana Dwi Satria Solusi (WDSS)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
